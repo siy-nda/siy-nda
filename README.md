@@ -1,8 +1,8 @@
-# Hi, I'm Siyanda 👋
+# Hi, I'm Siyanda 
 
 Information Systems student at Vaal University of Technology (Gauteng, South Africa), building toward a career in systems administration, networking, and security.
 
-## 🔭 What I'm into
+##  What I'm into
 - Networking engineering and 5G Core (5GC)
 - Systems administration (Windows Server, Linux)
 - Cybersecurity and penetration testing
@@ -19,11 +19,11 @@ Information Systems student at Vaal University of Technology (Gauteng, South Afr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-## 📂 Projects
+##  Projects
 - [**IT**](https://github.com/siy-nda/IT): network simulation and Active Directory labs
 - [**Profile**](https://github.com/siy-nda/Profile): my personal website
 
-## 📫 Connect
+## Connect
 [LinkedIn](https://linkedin.com/in/siyanda-mbhele-7b8259225)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siy-nda&show_icons=true&theme=dark)
