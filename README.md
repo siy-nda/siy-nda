@@ -21,7 +21,7 @@ Information Systems student at Vaal University of Technology (Gauteng, South Afr
 
 ##  Projects
 - [**IT**](https://github.com/siy-nda/IT): network simulation and Active Directory labs
-- [**Profile**](https://github.com/siy-nda/Profile): my personal website
+- [**Profile**](https://siy-nda.github.io/Profile/): my personal website
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/siyanda-mbhele-7b8259225)
