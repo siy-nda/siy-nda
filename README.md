@@ -1,6 +1,6 @@
 # Hi, I'm Siyanda 
 
-Information Systems student at Vaal University of Technology (Gauteng, South Africa), building toward a career in systems administration, networking, and security.
+Building practical skills in networking, cloud computing,Software Development, systems administration, and cybersecurity. Interested in infrastructure, automation, and solving real-world technical problems through hands-on projects and labs.
 
 ##  What I'm into
 - Networking engineering and 5G Core (5GC)
